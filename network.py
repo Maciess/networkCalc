@@ -1,6 +1,6 @@
 from ip_v4 import Addres, Mask
 from DHCP import DHCP
-
+#header test
 
 class Network:
 	def __init__(self, ip_addres, mask): # w konstruktorze tekstowo
